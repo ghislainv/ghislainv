@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Ghislain :blush:
+
+I am an ecologist at Cirad (<https://www.cirad.fr>), a French research center working with developing countries to tackle environmental and development issues. I am conducting researches in community ecology, conservation biology and applied statistics (<https://ecology.ghislainv.fr>).
 
 <!--
 **ghislainv/ghislainv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
